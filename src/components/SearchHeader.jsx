@@ -23,10 +23,10 @@ export default function SearchHeader() {
       </Link>
       <form onSubmit={handleSubmit} className="w-full flex justify-center">
         <input
-          className="w-7/12 p-2 outline-none bg-black"
+          className="w-7/12 p-2 outline-none bg-black text-sm"
           type="text"
           value={text}
-          placeholder="검색하고자 하는 내용을 입력하세요"
+          placeholder="검색해보세요^^"
           onChange={handleChange}
         />
         <button className="bg-zinc-600 px-4">
