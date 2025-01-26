@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "lJ-vn-0hRRx9caWwu7U4Cror_10",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 437864,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kZ6uKOCe3WqoFQbcFxkzOMdeBYs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zQG4_WTvTCs"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-21T00:30:34Z",
+        "channelId": "UCD6yxYy_l94kygBN1EX6OTw",
+        "title": "현직 법무사의 먹고 살 걱정",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zQG4_WTvTCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zQG4_WTvTCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zQG4_WTvTCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "법무사도영화",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-21T00:30:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TQzkUPeOpmU1FBXhoizpPti1IzM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jdy2ICdim1Y"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-11T06:30:59Z",
+        "channelId": "UCrBrWYwtDTFJbw6cQpnHRpw",
+        "title": "61세 나이에 공부 시작하여 2년만에 합격 [29회 합격자 손석구 법무사]",
+        "description": "손석구 법무사 합격수기 https://zrr.kr/m4Eo 00:00 영상 시작 00:24 공인중개사 합격 후 법무사 도전 계기 01:12 박문각 서울법학원 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jdy2ICdim1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jdy2ICdim1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jdy2ICdim1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박문각 법무사",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-11T06:30:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j3JOMNOKSXQy4pzk7LRluFga_j0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gZ4vD7so2Vk"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-22T08:13:55Z",
+        "channelId": "UCY5Lodj8DS2VtnOQhBqJzMA",
+        "title": "법무사가 돼서 좋은 점, 장점 #법무사직업만족도",
+        "description": "어느 직업이나 장점과 단점이 있겠지만 오늘은 제가 법무사로 활동 하면서 느낀 장점들에 대해 이야기 해보겠습니다~ #법무사직업 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gZ4vD7so2Vk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gZ4vD7so2Vk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gZ4vD7so2Vk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "법본주의 법무사정동혁",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-22T08:13:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L1rrp7gP-P--IkszXCZRV9EOxCs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pqout4WV3z4"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-02T23:15:01Z",
+        "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+        "title": "[자막뉴스] 직원 한 번 잘못 뒀다가 집을 팔게 된 법무사 / KBS 2023.11.03.",
+        "description": "5년 전 이혼 뒤 자녀 2명을 홀로 키워온 A씨. 3천5백만 원의 빚을 갚기 어려워 지난 8월, 창원지법 인근 법무사 사무소를 통해 파산을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pqout4WV3z4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pqout4WV3z4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pqout4WV3z4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-02T23:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KfGnReEj6xdUYLOXbLkXxML77JU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cE7Bh8W50bk"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-17T11:32:26Z",
+        "channelId": "UCY5Lodj8DS2VtnOQhBqJzMA",
+        "title": "법무사 1차 시험 단기 합격 공부법 #법무사시험",
+        "description": "어마어마한 양을 자랑하는 법무사 1차 시험! 어떻게해야 최소한의 시간 투자로 빠르게 합격할 수 있을까?? #법무사시험 #법무사준비 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cE7Bh8W50bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cE7Bh8W50bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cE7Bh8W50bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "법본주의 법무사정동혁",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-17T11:32:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WA_vzDyKWoc1FBVWzE8LGwU_-uI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t5XayS4ioYw"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-04T14:44:42Z",
+        "channelId": "UCq04NBIwq4oavZdbttidnpg",
+        "title": "법무사는 무슨 일을 하나요?",
+        "description": "shorts #나무늘변 #김연수변호사.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t5XayS4ioYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t5XayS4ioYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t5XayS4ioYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "나무늘변 김연수",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-04T14:44:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w8Ab3MoOT_vHz8lfYWztbbmRBYw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MohyKfZxrWE"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-12T10:00:13Z",
+        "channelId": "UC55MASwbG7Iovx2ItnL0icA",
+        "title": "[댓글읽기] 변호사와 법무사의 다른점",
+        "description": "법원근처에 법무사 사무소가 많은데 법무법인이랑 차이점이 궁금해요 #법무법인법무사 #변호사법무사 #법무사사무소 #법무법인 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MohyKfZxrWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MohyKfZxrWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MohyKfZxrWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "채널 에이블",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-12T10:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0FzWAb6tCnCiHJ_H4PnCd-kIVpg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9hI4yc3CYnI"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-14T12:25:59Z",
+        "channelId": "UCq5zGPQT0medDUn3R6v7NPQ",
+        "title": "법률절차를 진행할 때.. 마주치게 되는 변호사와 법무사.. 어떤 차이가 있을까?",
+        "description": "법적절차를 진행하고자 할 때.. 변호사를 통해서 법적절차를 진행해야 하는 것인지..법무사를 통해서 법적절차를 진행해야 하는 것인지 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9hI4yc3CYnI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9hI4yc3CYnI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9hI4yc3CYnI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "로온티비_이상혁변호사",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-14T12:25:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ji9P-OpfzLsNW57p4j6iPk8u_5E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "01OLmmUMd70"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-20T14:28:37Z",
+        "channelId": "UCpMgijrbJYE0XkCSNtz4Fng",
+        "title": "파산신청이란법무사비용",
+        "description": "\"This video contains music from Shutterstock, licensed by Naver.\" ⭕ [사건상담 예약필수] 고보경변호사1002kbk@daum.net ⭕ 법률 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/01OLmmUMd70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/01OLmmUMd70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/01OLmmUMd70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "🟢 ASIN변호사",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-20T14:28:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H8Tv0IAKE6odzMW6i18SLxK0xRU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y_W1Ns45VnU"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-19T01:00:50Z",
+        "channelId": "UC7cXVgufj1RN-hIE85-KdUw",
+        "title": "사무실이 안정되면 좋은점? [류홍석법무사]",
+        "description": "법무사전망 #법무사시험 #법무사공부 #법무사준비 #법조인 #법률가 #전문직 #류홍석법무사.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y_W1Ns45VnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y_W1Ns45VnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y_W1Ns45VnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "법무사의 모든것 류홍석법무사",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-19T01:00:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ecMh7q1CIbTQYaB8ssR71bktBwk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "orKjq5Y4owI"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-14T04:05:54Z",
+        "channelId": "UCup4xX9m8LLVKVvIJU_B6UQ",
+        "title": "6년차 법무사, 얼마나 만족하세요? 💁👌 #법무사 #전문직 #시대에듀",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/orKjq5Y4owI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/orKjq5Y4owI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/orKjq5Y4owI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "빠른합격! 시대에듀",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-14T04:05:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Nuu82S3KarZPNug6DOzLairxJwE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KwlKjB-vFlg"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-14T23:20:00Z",
+        "channelId": "UC7cXVgufj1RN-hIE85-KdUw",
+        "title": "왜 미리 합격 후 걱정을? #법무사시험",
+        "description": "법무사시험 #법무사준비 #법무사공부 #법조인 #법률가 #전문직 #류홍석법무사.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KwlKjB-vFlg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KwlKjB-vFlg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KwlKjB-vFlg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "법무사의 모든것 류홍석법무사",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-14T23:20:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zh-6LUggB2XTnycg5IcR2kKJ7gg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4BacRsAQvJI"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-03T11:15:00Z",
+        "channelId": "UCX5g2W_nJ-zc4_JDG-WxteA",
+        "title": "[무사 프렌즈] 직업 소개! 법무사가 하는 일! - 황배익 법무사",
+        "description": "법무사가 정확하게 무슨일을 하는 직업이지? 법무사란 직업을 처음 들어보는 사람 집중! 무사 프렌즈 '황배익 법무사'와 함께 법무사란 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4BacRsAQvJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4BacRsAQvJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4BacRsAQvJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "무사 프렌즈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-03T11:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eo2YsNljyux8JWKflNui9dF5cok",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xOvPLG9fmgI"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-01T08:21:07Z",
+        "channelId": "UCOZMKwnjr8hinr1rn8vO53A",
+        "title": "노무사 vs 법무사 | 나이 많은데.. 어쩌죠? | 이직 고민상담 (ft. 10년 근무 경찰관 수험생)",
+        "description": "인터뷰 상담 문의 (메일 또는 인스타DM) e-mail: shdsj2014@hanmail.net Ins: mangdo___ #경찰공무원 #노무사 #망도.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xOvPLG9fmgI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xOvPLG9fmgI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xOvPLG9fmgI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "망도 mangdo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-01T08:21:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vfTjFDNfgNsnBULoCz1EzQj4Wb4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j3dZi3OUmFU"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-25T01:00:38Z",
+        "channelId": "UC7cXVgufj1RN-hIE85-KdUw",
+        "title": "기출만으로 합격 가능한 사람? #법무사시험",
+        "description": "법무사시험 #법무사준비 #법무사공부 #법조인 #법률가 #전문직 #류홍석법무사.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j3dZi3OUmFU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j3dZi3OUmFU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j3dZi3OUmFU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "법무사의 모든것 류홍석법무사",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-25T01:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gOfiFw0ZcdbVReoGA5zRSfJe0iM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2Fml4HSKSeE"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-29T03:22:52Z",
+        "channelId": "UCLUt6q4qVTkrxc3D_rRanRg",
+        "title": "잘나가던 사업 그만두고 법무사(전문직)된 후 현실고백",
+        "description": "전문직 #법무사 IT 사업을 하다가 그만두고 전문직이 되기로 결심. 3년간의 공부끝에 전문직이 된 최원영 법무사님의 이야기 ▷영상속 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Fml4HSKSeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Fml4HSKSeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Fml4HSKSeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "윤피디가 간다",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-29T03:22:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ld7ZeuYm4dyDfZkFPefVmUzKxvI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "09h15i0o9uE"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-03T03:14:20Z",
+        "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+        "title": "국가전문자격시험 공직경력특례 폐지 &#39;권고&#39;…법무사 등 15종 / SBS",
+        "description": "〈앵커〉 국민권익위원회가 국가 전문 자격시험에서 공무원들이 받았던 특례를 폐지하라고 권고했습니다. 내년 6월까지 각 부처에서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/09h15i0o9uE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/09h15i0o9uE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/09h15i0o9uE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS 뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-03T03:14:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZIbRMC8F_BBjiMwE0jmSatBThAQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AAZtXAU4nAo"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-25T06:59:48Z",
+        "channelId": "UCup4xX9m8LLVKVvIJU_B6UQ",
+        "title": "현직 법무사 life｜아묻따 시청 고~! ｜vs 변호사 / 장단점 / 비전 / 시험공부 [토크레인]",
+        "description": "모든 자격증/시험 정보를 파헤친다! 토크레인   국민과 가장 가까운 거리에서 국민이 요구하는 법률서비스를 제공하는 법률전문가인 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AAZtXAU4nAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AAZtXAU4nAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AAZtXAU4nAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "빠른합격! 시대에듀",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-25T06:59:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qm22X7QpLAFaNxLc_WyorOIiS0s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "02m952JNF_M"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-10T10:29:34Z",
+        "channelId": "UCO4_Qgll3QaPISZdXI3gxRQ",
+        "title": "&quot;100% 리얼&quot; 상대방이 법무사일때 발생되는 명도 현장",
+        "description": "명도 #부동산경매 #인문경매 #아파트경매 법무사가 대리인으로 나선 명도 현장 그리고 수십번 말이 바뀌는 전 소유자 어쩔수 협의를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/02m952JNF_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/02m952JNF_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/02m952JNF_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "초보자를 위한 인문경매",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-10T10:29:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VmkymaiMy4C5pSlDqMB2t2JaW-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kzw1lAFOb3I"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-06T07:44:14Z",
+        "channelId": "UC757A4qzPM0k-D4keyFxkGg",
+        "title": "변호사와 변리사, 법무사의 차이! #shorts",
+        "description": "법무법인 이현 상담 신청 : 1544-9981 홈페이지 : http://ehyun.co.kr/ 블로그 : https://blog.naver.com/e-hyun104 #변호사 #변리사 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kzw1lAFOb3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kzw1lAFOb3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kzw1lAFOb3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "대표변호사 이환권TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-06T07:44:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cq7CndNsx-NdNwgvgYqHvec16Eg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SNgNumETpN4"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-23T09:00:32Z",
+        "channelId": "UCQqcgsnmhCjUzYXw_xePdtA",
+        "title": "법무사 수험생에게 사기친 사기꾼의 최후 ㅋㅋㅋㅋㅋ",
+        "description": "웃긴짤 #사기꾼 #법무사준비생 숏티즈 최애간식   구독 좋아요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SNgNumETpN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SNgNumETpN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SNgNumETpN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "숏티즈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-23T09:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S0wtX5jSBUO1lC2OeDwld_PHISY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PjArkH6JJBM"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-07T23:20:00Z",
+        "channelId": "UC7cXVgufj1RN-hIE85-KdUw",
+        "title": "공부 시작할 때 너무 흥분하지 마세요 #법무사시험",
+        "description": "법무사시험 #법무사준비 #법무사공부 #법조인 #법률가 #전문직 #류홍석법무사.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PjArkH6JJBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PjArkH6JJBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PjArkH6JJBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "법무사의 모든것 류홍석법무사",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-07T23:20:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "et_mHdNFyo2drdl33jW7Ehqlqz0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TERV8NnemmM"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-10T12:45:40Z",
+        "channelId": "UC2RrbL-hcZTxJ_JjwuJmpBA",
+        "title": "변호사와 법무사의 차이?",
+        "description": "변호사 #법무사 #전문직 #행정사.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TERV8NnemmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TERV8NnemmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TERV8NnemmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "로아트 마법사",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-10T12:45:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g0ZlCAGB3nRYLiuVdtAY2Bc8YRs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rD04s3As3DI"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-26T05:30:56Z",
+        "channelId": "UCup4xX9m8LLVKVvIJU_B6UQ",
+        "title": "법무사, &quot;이렇게&quot; 하면 합격합니다. [수강시청] 법무사 - 임창민 교수",
+        "description": "법무사 강의 신청이 고민된다면? 시대에듀 법무사 교수 임창민 교수의 강의 소개 영상과 함께하세요! 더 많은 법무사 강의 정보가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rD04s3As3DI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rD04s3As3DI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rD04s3As3DI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "빠른합격! 시대에듀",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-26T05:30:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YiAoIfzdkPKGxqXzHfGjBFYXoGw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UDXziq1eMdU"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-01T13:00:25Z",
+        "channelId": "UCN0dxfNmCIGMw7R5WVzmcyQ",
+        "title": "법무사 수익 대공개!",
+        "description": "대한민국에 존재하는 모든 직장인, 취준생의 평범하지만 특별한 이야기 치열하게 취업을 준비하는, 취업에 성공한 그들의 하루를 모두 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UDXziq1eMdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UDXziq1eMdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UDXziq1eMdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "한국취업센터",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-01T13:00:25Z"
+      }
+    }
+  ]
+}

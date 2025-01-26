@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "LSxy7uY1K4O_HElJ67hGkh9VnYs",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KQwb_wrc8Fhow_X7EQVxdXTv3Tc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rndEXP7CaW4"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-22T03:58:44Z",
+        "channelId": "UCkOkgVhksDPR3vdCjflq2aQ",
+        "title": "대통령 탄핵을 막기 위해 모인 애국 시민들  [헌법재판소] 25.01.22",
+        "description": "This stream is created with #PRISMLiveStudio.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rndEXP7CaW4/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rndEXP7CaW4/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rndEXP7CaW4/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "운정참존교회",
+        "liveBroadcastContent": "live",
+        "publishTime": "2025-01-22T03:58:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2Tqo3YLdnnv9fZiTFtlVhILzpV8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8-fO4Ny8blA"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-22T04:35:47Z",
+        "channelId": "UCOqCunaF9qVN8bXwsK0HT3g",
+        "title": "탄핵세력과 전쟁에서 승리하는 법 [김용삼 대기자의 시국진단 ⑤]",
+        "description": "펜앤드마이크는 사즉생의 마음으로 대한민국 체제 수호에 매진하겠습니다 후원계좌 : 기업은행 02-2138-5881 (주식회사 펜앤드 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8-fO4Ny8blA/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8-fO4Ny8blA/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8-fO4Ny8blA/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "펜앤드마이크TV",
+        "liveBroadcastContent": "live",
+        "publishTime": "2025-01-22T04:35:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vQbkEUeBpPFh0aG8S_7vMyvrpb8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RCRMj0FdHOE"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-22T04:20:42Z",
+        "channelId": "UCMYhq9OyGI5UEz_NTAoHY7A",
+        "title": "●1월 22일 수요일 [LIVE] - 뉴스(민동기,최강욱,이명수,장인수,김갑수,노영희,이성윤)",
+        "description": "최욱 #매불쇼 #팟빵 - 사이다 헤드라인 : 민동기 X 최강욱 X 이명수 X 장인수 X 김갑수 X 노영희 X 이성윤 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RCRMj0FdHOE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RCRMj0FdHOE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RCRMj0FdHOE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "[팟빵] 매불쇼",
+        "liveBroadcastContent": "live",
+        "publishTime": "2025-01-22T04:20:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7W6g9icOa-HroHAlQJYtLMZ7thU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BSHxYHtoWxQ"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-14T17:56:20Z",
+        "channelId": "UC-12gswgwJ_cwEntmdGA7qg",
+        "title": "엘라 인챈티드",
+        "description": "엘라가 사는 마법 세계에서는 모든 아이가 태어나는 순간 요정 대모에게서 미덕을 \"선물\"로 받는다. 하지만 엘라가 받은 소위 \"선물\"은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BSHxYHtoWxQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BSHxYHtoWxQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BSHxYHtoWxQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-14T17:56:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TIw1oeuvo2tcDIyh747T8DYvQCc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uwySZ9L4pa0"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-21T08:30:17Z",
+        "channelId": "UCQFtOy_w3ySgm76zyBn3rlw",
+        "title": "Garlic butter mushrooms",
+        "description": "Garlic butter caramelised mushrooms 20 garlic confit cloves 3tbsp / 50g butter 1tsp thyme 500g / 1lb mushrooms, button or swiss ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uwySZ9L4pa0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uwySZ9L4pa0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uwySZ9L4pa0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daen's Kitchen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-21T08:30:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iSBWNS5IsNbyIsF2koz-1oSiLyk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yjp5nM7hTm4"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-21T15:43:11Z",
+        "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+        "title": "Kayleigh McEnany: &quot;Watch out, White House press corps, Karoline Leavitt&#39;s coming your way.&quot;",
+        "description": "'Outnumbered' co-host and former Trump White House press secretary Kayleigh McEnany says the media is \"eating crow\" and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yjp5nM7hTm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yjp5nM7hTm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yjp5nM7hTm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fox News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-21T15:43:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uF9D554fd8N9hYhT1_cKKygo4E0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9tMu4fdesls"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-20T15:01:47Z",
+        "channelId": "UCuYUOEXwUKBtiE1pNoB40PA",
+        "title": "Messi Free Kick Trick 🤯",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9tMu4fdesls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9tMu4fdesls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9tMu4fdesls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Foot Mood",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-20T15:01:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZWcVNLai4YXJlM8wbJRIoMPKiNk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4u56-zUy6Vc"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-21T09:07:39Z",
+        "channelId": "UCMEbRpvuwTbXxGiyDb1mT8w",
+        "title": "나도 모르게 끝까지 보게 되는, &#39;여러모로 역대급&#39; 트럼프 대통령 취임식 영상 가져왔습니다 / 비디오머그",
+        "description": "현지 시간으로 20일 정오, 도널드 트럼프 미국 대통령의 취임식이 있었습니다. 원래 야외 취임식장에 25만 명을 초대해 성대하게 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4u56-zUy6Vc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4u56-zUy6Vc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4u56-zUy6Vc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "비디오머그 - VIDEOMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-21T09:07:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cs8DC12NsmY62Zs3o33jRupzyzI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EuOcYnCE10E"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-21T09:40:37Z",
+        "channelId": "UCuAd4nOvB1PSFiTkZYvYkdQ",
+        "title": "Squid Game Sniped #pmdamiann #roblox",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EuOcYnCE10E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EuOcYnCE10E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EuOcYnCE10E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PMdamiann",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-21T09:40:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pIs0hX5-v4FKYbTYQXlLBNv8GN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ByLEKnFOe3k"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-15T05:55:47Z",
+        "channelId": "UCXbLhWDZJvcvriwg8aKu3cA",
+        "title": "아틀란티스 2 - 마일로의 귀환 (더빙판)",
+        "description": "전 편에서 마일로와 탐험대는 문명의 제국 아틀란티스 제국을 찾아 낸다. 한 무역선이 의문의 바다 괴물에게 공격을 당하고 이것이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ByLEKnFOe3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ByLEKnFOe3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ByLEKnFOe3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-08-15T05:55:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VR8DhuksylErXQygTV3VwEdPkus",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ttHhSt3j2zs"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-15T18:00:49Z",
+        "channelId": "UCjMzehcXlb-9sdu4MJ2YtJQ",
+        "title": "프루프",
+        "description": "20대 후반의 여성인 캐서린은 유명하고 뛰어난 수학자이지만 현실 감각이 점점 사라져 가는 부친 로버트에게 헌신적이다. 로버트가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ttHhSt3j2zs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ttHhSt3j2zs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ttHhSt3j2zs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-15T18:00:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VoB7zT87bVQ2Ap61UqFGgky3K7c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C10UiHG4H2o"
+      },
+      "snippet": {
+        "publishedAt": "2013-06-02T13:27:27Z",
+        "channelId": "UCh7T3__awZQaah0Rw2TuZ1Q",
+        "title": "왓어 걸 원츠",
+        "description": "데프니 레이놀즈는 개성있고 발랄한 10대 소녀. 고등학교를 갓 졸업한 그녀는 보헤미언처럼 자유분방한 가수 엄마 리비와 뉴욕 차이나 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C10UiHG4H2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C10UiHG4H2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C10UiHG4H2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-06-02T13:27:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vapG7JcCR8j9JxOyG_c4rI-rzaA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mh0P9JgFkjs"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-22T04:13:21Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "尹 강제구인·대통령실, 관저 압수수색 동시 시도‥이 시각 공수처 - [LIVE] MBC 뉴스외전 2025년 01월 22일",
+        "description": "尹 강제구인·대통령실, 관저 압수수색 동시 시도‥이 시각 공수처 - [LIVE] MBC 뉴스외전 2025년 01월 22일 \"뉴스가 보입니다\" 함께 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mh0P9JgFkjs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mh0P9JgFkjs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mh0P9JgFkjs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "live",
+        "publishTime": "2025-01-22T04:13:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KoUvekArcLpxwB3fLw-TqWxsYak",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AF_w5aQgWSo"
+      },
+      "snippet": {
+        "publishedAt": "2013-05-14T16:28:27Z",
+        "channelId": "UCKiwVZ6jpmhagoACd9dUcgA",
+        "title": "럭키원",
+        "description": "미 해군 출신의 로건 타이볼트는 이라크에서 군 복무 중, 먼지에 반쯤 묻힌 사진에서 미소 짓는 여인을 발견한다. 그는 사진의 주인을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AF_w5aQgWSo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AF_w5aQgWSo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AF_w5aQgWSo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-05-14T16:28:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "92Yob0GBIyLXDCToArB8E1BRbAw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ElwqfF6a6Po"
+      },
+      "snippet": {
+        "publishedAt": "2014-03-27T06:14:54Z",
+        "channelId": "UCfcQXsr73HtfYTeUSR5_07Q",
+        "title": "잭 라이언: 코드네임 쉐도우",
+        "description": "\"액션 영웅이 다시 태어났다!\" 최고의 비평가들이 \"강렬하고 흥미진진하다\"고 극찬한 톰 클랜시의 상징적인 영웅, 잭 라이언의 오리지널 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ElwqfF6a6Po/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ElwqfF6a6Po/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ElwqfF6a6Po/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-03-27T06:14:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9DhMG6FKimlhnVkUnxfsKfgDMp0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7X1oomoLi7k"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-30T15:00:27Z",
+        "channelId": "UC6_2HONxogpPG92tWGKYuPA",
+        "title": "완벽한 거짓말",
+        "description": "문학의 거짓 천재가 되다! 26살의 나이에 베스트셀러를 집필한 천재 작가 마티유, 하지만 그에겐 아무도 모르는 비밀이 있다. 완벽한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7X1oomoLi7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7X1oomoLi7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7X1oomoLi7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-30T15:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KxOYsII0vHOJlMXCcFs_3GuGywY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z2eEOgp5kOs"
+      },
+      "snippet": {
+        "publishedAt": "2014-08-23T11:04:23Z",
+        "channelId": "UCAz2t87m8Vcyo9yPLENiEJA",
+        "title": "벨",
+        "description": "세상을 바꾼 여성의 용감하고 아름다운 실화! 영국의 노예제도 폐지에 일조한 다이도 엘리자베스 벨의 실제 이야기를 담은 품격 있는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z2eEOgp5kOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z2eEOgp5kOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z2eEOgp5kOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-08-23T11:04:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ebWDJE6bT3tR7dGnnKDx1qZeph8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2aAmkQAvy3Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-21T03:17:09Z",
+        "channelId": "UCfWozMZjapPKZBQ_PnwDocg",
+        "title": "Day 81 of ONLY Eating Food From a Korean Convenience Store!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2aAmkQAvy3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2aAmkQAvy3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2aAmkQAvy3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Koreanosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-21T03:17:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CGExo63GQwj9bQMwI6qM1bzX1iY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8T2X3cqAwiw"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-02T15:04:32Z",
+        "channelId": "UClH9x-qvxqCLzp4IJv1ZJAg",
+        "title": "앤트보이 : 초딩 히어로의 탄생",
+        "description": "세상에 없던 초딩 히어로의 탄생! 초콜릿을 먹고 힘을 내서 악당과 맞서 싸워라! 특별한 사람이 되고 싶지만 현실은 평범 초딩인 '펠레'!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8T2X3cqAwiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8T2X3cqAwiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8T2X3cqAwiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-02T15:04:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cfe9YNI8GqIVB4acUBXeV7tjtdA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BQqW7LXy9Fs"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-21T13:30:12Z",
+        "channelId": "UCtctOXlHYeQyuXSgW861nMA",
+        "title": "한손으로 사람들기⁉️😱 Partner Challenge",
+        "description": "URE - Life is a challenge 수업 안내 Class Information https://1llusion.modoo.at/ 온라인 클래스 Online Class ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BQqW7LXy9Fs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BQqW7LXy9Fs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BQqW7LXy9Fs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "팀일루션 노성율",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-21T13:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pGLVfBj5_79-dAPiGk_clvVGQb8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JUgPCZNquDM"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-06T15:00:15Z",
+        "channelId": "UC8L__RuNawnnO4ynFBg5nBA",
+        "title": "팬 (자막판)",
+        "description": "조 라이트가 연출한 영화 \"팬\"은 소설가 J.M. 배리 의 원작을 기반으로 하며, 영원하 사랑받는 캐릭터의 신나는 모험의 세계를 화려한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JUgPCZNquDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JUgPCZNquDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JUgPCZNquDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-01-06T15:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KiLKUs2xd8bR7IUMsSYAP7QrkY4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fp3F6TqBsAU"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-21T11:00:15Z",
+        "channelId": "UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "title": "米津玄師  Kenshi Yonezu - Plazma",
+        "description": "劇場先行版『機動戦士Gundam GQuuuuuuX -Beginning-』主題歌 Theme song for \"Mobile Suit Gundam GQuuuuuuX - Beginning ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fp3F6TqBsAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fp3F6TqBsAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fp3F6TqBsAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kenshi Yonezu  米津玄師",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-21T11:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "92CElDz6Z1ow1hflQZRFyumNBHA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bIK_VO84ThI"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-22T08:32:52Z",
+        "channelId": "UC3DmV19ZCkFZ6Yzv0oQfAqg",
+        "title": "신은 죽지 않았다 2",
+        "description": "고등학교 역사 교사 '그레이스'는 오빠를 잃은 슬픔에 빠져있는 여고생 '브룩'에게 성경 말씀으로 고난을 극복할 수 있음을 알려준다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bIK_VO84ThI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bIK_VO84ThI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bIK_VO84ThI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-22T08:32:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OWD95o_vViMYCcp6i5bXs9sVp7Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "inVcYNc5J38"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-21T17:26:47Z",
+        "channelId": "UCfWNZIJkm268rLO_yeRlcww",
+        "title": "Russian Economy in FREEFALL as Putin Admits DEFEAT",
+        "description": "Support the content on Patreon: https://www.patreon.com/businessbasicsyt Sign up to my free 7 day Youtube Basics Bootcamp ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/inVcYNc5J38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/inVcYNc5J38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/inVcYNc5J38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Business Basics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-21T17:26:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dr-XnLKxjab35yvapJp5jeLupHs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XQTLZdyv0ZM"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-29T15:00:03Z",
+        "channelId": "UC-Hh-pFupvPvrI3CPwm-4Sw",
+        "title": "낫 세이프 포 워크",
+        "description": "회사원, 톰 밀러(맥스 밍겔라)는 미친 살인자(제이제이 페일드)와 함께 회사에 갇히게 된다. 늦게까지 일하는 직원들을 보호하려던 톰은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XQTLZdyv0ZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XQTLZdyv0ZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XQTLZdyv0ZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-29T15:00:03Z"
+      }
+    }
+  ]
+}
